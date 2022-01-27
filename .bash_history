@@ -165,3 +165,89 @@ git reset HEAD apollo11.txt
 git checkout -- apollo11.txt
 git checkout -- apollo12.txt
 clear
+ls
+rm -rf apollo11.txt
+ls
+rm -rf apollo12.txt
+ls
+clear
+git init
+ls
+git branch
+git branch testing
+git branch
+git checkout testing
+code .
+git branch -d testing
+git branch -D testing
+git branch
+/root
+clear
+git -b vostok1
+git checkout -b vostok1
+clear
+touch vostok1
+ls
+rm vostok1
+ls
+touch vostok1.txt
+ls
+clear
+git add vostok.txt
+git commit -m 'Inclusão da vostok1 ao registros'
+git add vostok1.txt
+git commit -m 'Inclusão da vostok1 ao registros'
+git checkout master
+git merge vostok1
+git log
+clear
+ls
+rm vostok1.txt
+rm -rf realizando_seu_primeiro_commit
+ls
+clear
+mkdir voyager1
+ls
+git init
+touch voyager1.txt
+code .
+git add .
+git commit -m 'Inclusao da voyager1
+ls
+git commit =m 'Inclusao da voyager1'
+clear
+sada
+d
+asd
+as
+da
+das
+d
+
+ls
+git commit -m 'Inclusão da voyager1'
+rm apollo11.txt
+-d apollo11.txt
+git checkout -b voyager1
+git add voyager1.txt
+git commit -m 'Inclusão da data de lançamento na voyager1'
+git checkout master
+git merge voyager1
+clear
+ls
+rm voyager1.txt
+rm -rf voyager1
+mkdir códigos
+ls
+clear
+git init
+git add códigos
+ls
+code .
+clear
+git clone https://github.com/facebook/create-react-app.git
+cd create-react-app
+code .
+clear
+ls
+cd voyager1
